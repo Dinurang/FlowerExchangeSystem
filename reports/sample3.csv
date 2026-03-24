@@ -1,0 +1,10 @@
+ClientOrderID,Instrument,Side,Quantity,Price
+BUY_P50_A, Rose,1,100,50.00
+BUY_P50_B,Rose,1,80,50.00
+BUY_P55,Rose,1,60,55.00
+BUY_P45,Rose,1,40,45.00
+SELL_P48,Rose,2,40,38.00
+SELL_P50,Rose,2,100,50.00
+SELL_P45,Rose,2,50,45.00
+SELL_P46,,2,50,45.00
+SELL_P47,Rose,3,50,45.00
