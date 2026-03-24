@@ -1,7 +1,6 @@
 #include <cstring> // Required for std::memset
 #include <cstdlib> // Required for exit(EXIT_FAILURE)
 #include "../include/server.h"
-#include "../include/socket.h"
 #include "../include/exchange_application.h"
 #include "../include/execution_report.h"
 #include "../include/placed_order.h"
